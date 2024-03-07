@@ -1,4 +1,4 @@
-# SKR Mini E3 CR-Touch Marlin firmware configuration
+# SKR Mini E3 CR-Touch Sprite Extruder Marlin firmware configuration
 The following a fork of the [Marlin Firmware repo](`https://github.com/MarlinFirmware/Marlin`) with a working CR-Touch config applied over the top. This means you can simply build this repo in VSCode's Platform.io Plugin / Auto Build Marlin plugin.
 
 This has been specifically configured for:
