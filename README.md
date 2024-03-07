@@ -6,6 +6,7 @@ This has been specifically configured for:
  - Ender 3 Pro frame / board
  - CR-Touch
  - Auto bed-leveling
+ - Sprite Extruder Head
  - Using CR-Touch as Z-stop with no hardware z-stop connected
    - this is not the same thing as the BL-Touch
 
